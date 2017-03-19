@@ -1,0 +1,126 @@
+.profile-pic{
+	max-width:50%;
+}
+
+.card-text {
+	color: black;
+	font-family: arial;
+	
+}
+
+
+
+.card-title {
+	text-decoration: underline;
+}
+
+.fa {
+	color: black;
+}
+
+.fa:hover {
+	color: pink;
+
+}
+
+.card-title {
+	color: pink;
+	font-family: arial;
+}
+
+.fa-calendar-o {
+	color: black;
+}
+
+
+.age {
+	font-family: arial;
+}
+
+.fa-map-marker {
+	color: black;
+}
+
+.location {
+	font-family: arial;
+}
+
+.fa-graduation-cap {
+	color: black;
+}
+
+.study {
+	font-family: arial;
+}
+
+.navbar {
+	background-image: url(../img/bggif.gif);
+}
+
+body {
+	background-image: url(../img/glitter.gif);
+}
+
+
+
+.card {
+	color: pink;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.text2 {
+	
+}
+
+.card-text {
+	
+}
+
+
+.heading {
+	font-family: cursive;
+	color: pink;
+}
+
+.text {
+	color: black;
+}
+
+
+/*HOMEPAGE*/
+
+.title {
+	background-image: url(../img/bggif.gif);
+	font-family: cursive;
+}
+
+.homepage {
+	background-image: url(../img/bggif.gif);
+	background-size: tile;
+
+}
+
+.homebox {
+	margin-top: 20%;
+	font-family: Rochester;
+	font-size: 50px;
+	color: pink;
+
+}
+
+.display-3 {
+	font-size: 100px
+}
+
+.lead {
+	font-size: 50px;
+}
+
+.nav-item {
+	color: pink;
+}
+
+.button {
+	color: pink;
+}
